@@ -1,4 +1,4 @@
 # opzrib
-All made by TheMemeSniper. The link that I used: https://github.com/TheMemeSniper/stpg
+100% of code by TheMemeSniper.
 
-I want to make it clear that this is 100% made by TheMemeSniper. That's all.
+https://github.com/TheMemeSniper/stpg/
